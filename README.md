@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm excited to connect with fellow developers and 
 - **Open-source Contributions**: Giving back to the community by contributing to projects I love.
 - **Data Science and Machine Learning**: Exploring data-driven insights and predictive modeling.
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently working ...
 - **React.js**: Focusing on building dynamic web applications with reusable components.
-- **Docker and Containerization**: Understanding how to streamline development environments.
+- **Express nodejs React native**: Understanding how to streamline development environments.
 - **SQL and Database Management**: Diving into data storage and retrieval techniques.
 
 ## 💞️ I’m looking to collaborate on ...
