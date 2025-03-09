@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Full stack web developer Tebarek Abas
+# 👋 Hey, I’m Full stack web developer Tebarek Abas
 
 Welcome to my GitHub profile! I'm excited to connect with fellow developers and share my journey in tech.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm excited to connect with fellow developers and 
 - **Data Science and Machine Learning**: Exploring data-driven insights and predictive modeling.
 
 ## 🌱 I’m currently working ...
-- **React.js**: Focusing on building dynamic web applications with reusable components.
+- **React.js With Typescript Vite**: Focusing on building dynamic web applications with reusable components.
 - **Express nodejs React native**: Understanding how to streamline development environments.
 - **SQL and Database Management**: Diving into data storage and retrieval techniques.
 
@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I'm excited to connect with fellow developers and 
 
 ## 📫 How to reach me ...
 - **Email**: tebarekabas4@gmail.com
-- **Twitter**: 
-- **LinkedIn**:
+- **Facebook**: https://www.facebook.com/TebarekMarketing
+- **LinkedIn**:http://www.linkedin.com/in/tebarekabas
+-**Telegram Username**:@tebarek_abas
 
 ## 😄 Pronouns: ...
-He/Him
-
+He...
 ## ⚡ Fun fact: ...
 I once built a simple e in JavaScript during a weekend hackathon, and it turned out to be a lot of fun! 🎮 When I'm not coding, I love hiking and exploring nature trails. 🌲
