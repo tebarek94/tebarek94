@@ -22,8 +22,6 @@ Welcome to my GitHub profile! I'm excited to connect with fellow developers and 
 - **Email**: tebarekabas4@gmail.com
 - **Facebook**: https://www.facebook.com/TebarekMarketing
 - **LinkedIn**:http://www.linkedin.com/in/tebarekabas
--**Telegram Username**:@tebarek_abas
-  -**Telegram Username**: tebarekabas.netlify.app/
 
 ## 😄 Pronouns: ...
 He...
