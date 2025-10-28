@@ -1,29 +1,78 @@
-# 👋 Hey, I’m Full stack web developer Tebarek Abas
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Tebarek Abas</span> 🌊</h1>
 
-Welcome to my GitHub profile! I'm excited to connect with fellow developers and share my journey in tech.
+<p align="center">
+  <em>💻 Full Stack Web Developer | 🚀 Lifelong Learner | 🌍 Tech Enthusiast</em>
+</p>
 
-## 👀 I’m interested in ...
-- **Web Development**: Crafting responsive and interactive user interfaces.
-- **Backend Technologies**: Building robust server-side applications with Node.js and Python.
-- **Open-source Contributions**: Giving back to the community by contributing to projects I love.
-- **Data Science and Machine Learning**: Exploring data-driven insights and predictive modeling.
+---
 
-## 🌱 I’m currently working ...
-- **React.js With Typescript Vite**: Focusing on building dynamic web applications with reusable components.
-- **Express nodejs React native**: Understanding how to streamline development environments.
-- **SQL and Database Management**: Diving into data storage and retrieval techniques.
+### 🌟 About Me  
+I'm a passionate **Full Stack Web Developer** dedicated to crafting high-quality, responsive, and user-friendly web experiences.  
+From dynamic front-end interfaces to powerful back-end systems — I love turning ideas into digital reality.
 
-## 💞️ I’m looking to collaborate on ...
-- **Full-stack Web Projects**: Bringing together front-end and back-end technologies.
-- **Open-source Initiatives**: Teaming up with others to enhance existing projects or create new ones.
-- **Data Analysis Projects**: Analyzing data sets and deriving actionable insights.
+---
 
-## 📫 How to reach me ...
-- **Email**: tebarekabas4@gmail.com
-- **Facebook**: https://www.facebook.com/TebarekMarketing
-- **LinkedIn**:http://www.linkedin.com/in/tebarekabas
+### 👀 I’m Interested In  
+- 🌐 **Web Development** — Building responsive, interactive user interfaces  
+- 🧠 **Backend Engineering** — Crafting robust APIs with Node.js, Express, and Python  
+- 🤝 **Open-Source** — Collaborating and contributing to community-driven projects  
+- 📊 **Data Science & ML** — Discovering insights and building predictive systems  
 
-## 😄 Pronouns: ...
-He...
-## ⚡ Fun fact: ...
-I once built a simple e in JavaScript during a weekend hackathon, and it turned out to be a lot of fun! 🎮 When I'm not coding, I love hiking and exploring nature trails. 🌲
+---
+
+### 🌱 Currently Exploring  
+- ⚛️ **React.js + TypeScript + Vite** — Building scalable and modern web apps  
+- 🧩 **Express + Node.js + React Native** — Creating cross-platform solutions  
+- 🗄️ **SQL & Database Management** — Structuring and optimizing data systems  
+
+---
+
+### 💞️ Looking to Collaborate On  
+- 🧰 **Full-Stack Web Projects** — Blending front-end and back-end magic  
+- 🌍 **Open-Source Contributions** — Enhancing tools that empower developers  
+- 📈 **Data Analysis Projects** — Extracting value and meaning from data  
+
+---
+
+### 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:tebarekabas4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.facebook.com/TebarekMarketing"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="http://www.linkedin.com/in/tebarekabas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+🎮 I once built a fun mini-game in JavaScript during a weekend hackathon!  
+When I’m not coding, you’ll probably find me **hiking, exploring nature trails**, or **experimenting with new tech**. 🌲✨  
+
+---
+
+### 🧰 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,mysql,git,github,vite,tailwind" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TebarekAbas&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TebarekAbas&theme=tokyonight" height="160" />
+</p>
+
+---
+
+### 🌀 Fun Animation  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TebarekAbas&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/TebarekAbas/TebarekAbas/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<h3 align="center">💬 “Code. Create. Contribute.” 🚀</h3>
