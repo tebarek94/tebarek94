@@ -58,19 +58,19 @@ When I’m not coding, you’ll probably find me **hiking, exploring nature trai
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TebarekAbas&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TebarekAbas&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tebarek94&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tebarek94&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 ### 🌀 Fun Animation  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TebarekAbas&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tebarek94&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/TebarekAbas/TebarekAbas/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/tebarek94/tebarek94/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
